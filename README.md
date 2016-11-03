@@ -7,4 +7,3 @@ Tested with all modern browsers.
 
 ###License
 reMap is licensed under the [MIT license](http://opensource.org/licenses/MIT).
-# remap
